@@ -1,7 +1,9 @@
 ##Assignment for R programming week2
-*pollutantmean
+* pollutantmean
 calculate mean of a specific pollutant
-*complete
+* complete
 count complete cases 
-*corr
+* corr
 calculate the correlation of nitrate and sulfate
+
+###### contact: `alan1992919@126.com`
